@@ -1,8 +1,40 @@
-# React + Vite + Note
+# User Interface Documentation – Medicare System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Introduction
+The Medicare system’s user interface (UI) serves as a direct bridge between patients and the clinic’s medical services.  
+The website is designed to:
 
-Currently, two official plugins are available:
+- Simplify appointment booking and medical information searches for end users.  
+- Enhance user experience across all devices (desktop, tablet, mobile).  
+- Convey the professionalism, modernity, and reliability of the Medicare healthcare brand.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Patients can:
+
+- Quickly access medical information.  
+- Book appointments online with ease.  
+- Manage personal details, medical history, and invoices.  
+- Communicate with the medical support team when needed.
+
+---
+
+## 2. Homepage Structure
+
+### 2.1. Header
+- **Logo & Branding:** The “Medicare” logo appears at the top-left corner to strengthen brand recognition.  
+- **Navigation Bar:** Fixed at the top while scrolling and includes:
+  - Home  
+  - Clinics  
+  - Doctors  
+  - About Us  
+  - Contact  
+- **Quick Contact Info:**
+  - **Hotline:** Displayed at the top-right corner for urgent calls.  
+  - **Address:** Includes a mini map or a button linking to Google Maps.  
+  - **Branch Selector:** Dropdown to choose a clinic branch (e.g., Thanh Xuân, Cầu Giấy, Hà Đông).  
+- **Call-to-Action (CTA) Buttons:**  
+  - **Log In / Sign Up:** Prominent button with bright colors (e.g., green or orange).
+
+### 2.2. Hero Section (Main Banner)
+- **Image:** A friendly doctor in a white coat consulting a patient—highlighting professionalism and approachability.  
+- **Tagline:**  
+  “We prov
