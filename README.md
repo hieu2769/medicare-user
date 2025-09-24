@@ -1,12 +1,12 @@
-# 🩺 User Interface Documentation – Medicare System
+# 🩺 User Interface Documentation – MediConnect System
 
 ## 1. Introduction
-The Medicare system’s user interface (UI) serves as a direct bridge between patients and the clinic’s medical services.  
+The MediConnect system’s user interface (UI) serves as a direct bridge between patients and the clinic’s medical services.  
 The website is designed to:
 
 - ✨ Simplify appointment booking and medical information searches for end users.  
 - 📱 Enhance user experience across all devices (desktop, tablet, mobile).  
-- 🏥 Convey the professionalism, modernity, and reliability of the Medicare healthcare brand.
+- 🏥 Convey the professionalism, modernity, and reliability of the MediConnect healthcare brand.
 
 Patients can:
 
@@ -20,7 +20,7 @@ Patients can:
 ## 2. Homepage Structure
 
 ### 2.1. Header
-- **Logo & Branding:** 🩹 The “Medicare” logo appears at the top-left corner to strengthen brand recognition.  
+- **Logo & Branding:** 🩹 The “MediConnect” logo appears at the top-left corner to strengthen brand recognition.  
 - **Navigation Bar:** 📂 Fixed at the top while scrolling and includes:
   - 🏠 Home  
   - 🏥 Clinics  
