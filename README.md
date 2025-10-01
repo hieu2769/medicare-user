@@ -14,6 +14,7 @@ Patients can:
 - 🖱️ Book appointments online with ease.  
 - 🗂️ Manage personal details, medical history, and invoices.  
 - 💬 Communicate with the medical support team when needed.
+Slide : https://www.canva.com/design/DAG0iHIaOio/md6J0kgIT8u1F4hCLan1yw/edit
 
 ---
 
